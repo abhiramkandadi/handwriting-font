@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Intermediate render previews (keep finals)
+/tmp/
+final_p*.png
+final2_p*.png
+final3_p*.png
+problem*_v2.png
+test_render.png
